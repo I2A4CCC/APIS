@@ -6,7 +6,7 @@ GPT-3 is an AI module released by OpenAI in 2020. An Al module is a program trai
 
 # Setting up 
 *Open Ai Account*
-- Create an OpenAi account to access an API Key for using GRi- 3. An API key is an access code we receive to use / access a certain API. 
+- Create an OpenAi account to access an API Key for using GPT-3. An API key is an access code we receive to use / access a certain API. 
 
 # Beginning the Project
 - At the core of this project, all we'll be doing is sending data with instructions to a server owned by OpenAi, then receiving a response back from that and displaying it. 
