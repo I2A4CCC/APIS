@@ -22,7 +22,7 @@ GPT-3 is an AI module released by OpenAI in 2020. An Al module is a program trai
 - Second is the 'prompt' → (This will take in our ‘paragraph- topics’ argument, but before that  we can tell our model what to do with that argument)
 - Third is the 'max-token' → (This initialized token value decides how long the response is goin to be)
 - A paragraph that has 300 words has on average of 400 tokens. 
-- Our get-3.5 model has a taken limit of 4,909. 
+- Our gpt-3.5 model has a token limit of 4,909. 
 - Fourth is the 'temperature → (This determines the randomness of a response.)
 - A higher temperature creates a more creative response and a lower temperature creates a more direct response. Temperature is valued at any float number between 0-1
 
